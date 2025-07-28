@@ -1,4 +1,4 @@
-\# Forecasting Sales for Walmart (\[Kaggle](https://www.kaggle.com/competitions/m5-forecasting-accuracy))
+\# Forecasting Sales for Walmart (\[Kaggle])
 
 
 
