@@ -1,4 +1,4 @@
-# Forecasting Sales for Walmart ([Kaggle](https://www.kaggle.com/competitions/m5-forecasting-accuracy))
+# Time Series Forecasting for Retail ([Kaggle](https://www.kaggle.com/competitions/m5-forecasting-accuracy))
 
 **A neural network pipeline to forecast 28-day item-level sales for Walmart using time series modeling and PyTorch.**
 
